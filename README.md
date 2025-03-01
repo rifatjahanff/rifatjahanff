@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rifat jahan (Rume)</h1>
 <h3 align="center">I am Frontend Developer </h3>
 # 💫 About Me:
-I am FrontEnd  Developer<br>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I love my works Always ....<br><br>Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I love my works Always ....<br><br>Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
 
 
 ## 🌐 Socials:
